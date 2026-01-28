@@ -1,5 +1,0 @@
-Subjects
-ML
-CC
-ENT
-IC
